@@ -1,0 +1,17 @@
+
+# Site settings
+title: Beacon Networks
+language: html "en"
+email: info@beaconbd.com
+description: At Beacon Networks, we are committed to sustainable growth, ethical business practices, and the continuous improvement of our services. We believe in the power of collaboration and are dedicated to helping our clients achieve their goals through tailored solutions and expert guidance..  
+keywords: Import, Export, Indent, Garments Accessories, PP Woven Bag, Jute Bag, Chemical, Yarn, Fabrics & Consultancy Service Provider. 
+
+# Your website URL 
+# Used for Sitemap.xml and your RSS feed
+url: 
+     
+baseurl: 
+
+# Team names, titles and social links
+# a change in the length of the longest description affects /agency.css .team-member p.description
+
